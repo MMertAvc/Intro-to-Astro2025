@@ -1,0 +1,29 @@
+1. List of My Questions and Where They Come From in the Paper
+Mustafa Mert Avcı
+Q1:
+Why is the transit method especially effective for detecting large exoplanets close to their host stars, and what makes it challenging for finding smaller, Earth-like planets?
+*(Inspired by: Page 2–3, Paragraphs on the transit method and Kepler mission)
+
+Q2:
+What are the major challenges in direct imaging of exoplanets, and how might future technology help overcome these limitations?
+*(Inspired by: Page 3–4, Paragraphs on direct imaging, AO, and coronagraphs)
+
+Q3:
+The paper discusses two populations of small exoplanets and mentions a possible 'evaporation valley.' What physical mechanisms are proposed for this observed gap in the exoplanet radius distribution?
+*(Inspired by: Page 4, Paragraph on California Kepler Survey and radius distribution)
+
+Q4:
+How can we distinguish between planet-planet scattering and cloud fragmentation as formation scenarios for wide-separation exoplanets?
+*(Inspired by: Page 5, Paragraphs on formation scenarios and dynamical interactions)
+
+2. Reflection after Second Reading
+Q1: Transit method is sensitive to large planets because the relative dip in brightness is bigger and easier to detect. For small, Earth-sized planets, detecting such shallow dips requires extremely precise, space-based photometry.
+
+Q2: Direct imaging’s main technical barrier is contrast and angular separation. Future coronagraphs, starshades, and larger telescopes (E-ELT, JWST, WFIRST) are likely to improve this.
+
+Q3: The “evaporation valley” is thought to be caused by atmospheric loss due to photoevaporation or core-powered mass loss. More data and models are needed for certainty.
+
+Q4: Comparing eccentricities, system architectures, and formation timescales can help distinguish these scenarios.
+
+
+I read the exoplanet review paper by Lee (2018), formulated several questions based on key sections, and included page/paragraph references for each. After rereading, I reflected on the answers, posted one question on Discord, and responded to a classmate as required.
